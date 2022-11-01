@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.85768c17.css",
-    "main.js": "/static/js/main.5800fe21.js",
+    "main.js": "/static/js/main.0f68323a.js",
     "static/media/forget.png": "/static/media/forget.c9c176cdee9e3c4af1d7.png",
     "static/media/goal.png": "/static/media/goal.74f00a49410e89fc7037.png",
     "static/media/korea.png": "/static/media/korea.e5b56aab1d6d3cb06e59.png",
@@ -16,10 +16,10 @@
     "static/media/page.png": "/static/media/page.ea4ccc8ad8234a25c249.png",
     "index.html": "/index.html",
     "main.85768c17.css.map": "/static/css/main.85768c17.css.map",
-    "main.5800fe21.js.map": "/static/js/main.5800fe21.js.map"
+    "main.0f68323a.js.map": "/static/js/main.0f68323a.js.map"
   },
   "entrypoints": [
     "static/css/main.85768c17.css",
-    "static/js/main.5800fe21.js"
+    "static/js/main.0f68323a.js"
   ]
 }
