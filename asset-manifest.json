@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.44f8b8b5.css",
-    "main.js": "/static/js/main.776601a5.js",
+    "main.js": "/static/js/main.20a36097.js",
     "static/media/kimchi.png": "/static/media/kimchi.3521c0a828d5cce77c55.png",
     "static/media/language.png": "/static/media/language.781d0288b011bfddc45a.png",
     "static/media/philosophy.png": "/static/media/philosophy.3160f7752a54631e22c1.png",
@@ -44,10 +44,10 @@
     "static/media/not-provided.png": "/static/media/not-provided.ffdafe3f0eceab67b7c2.png",
     "index.html": "/index.html",
     "main.44f8b8b5.css.map": "/static/css/main.44f8b8b5.css.map",
-    "main.776601a5.js.map": "/static/js/main.776601a5.js.map"
+    "main.20a36097.js.map": "/static/js/main.20a36097.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.776601a5.js"
+    "static/js/main.20a36097.js"
   ]
 }
