@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f030ac69.css",
-    "main.js": "/static/js/main.c5026fab.js",
+    "main.css": "/static/css/main.d5bc2247.css",
+    "main.js": "/static/js/main.393471cd.js",
     "static/media/kimchi.png": "/static/media/kimchi.3521c0a828d5cce77c55.png",
     "static/media/language.png": "/static/media/language.781d0288b011bfddc45a.png",
     "static/media/philosophy.png": "/static/media/philosophy.3160f7752a54631e22c1.png",
@@ -43,11 +43,11 @@
     "static/media/error.png": "/static/media/error.ffdafe3f0eceab67b7c2.png",
     "static/media/not-provided.png": "/static/media/not-provided.ffdafe3f0eceab67b7c2.png",
     "index.html": "/index.html",
-    "main.f030ac69.css.map": "/static/css/main.f030ac69.css.map",
-    "main.c5026fab.js.map": "/static/js/main.c5026fab.js.map"
+    "main.d5bc2247.css.map": "/static/css/main.d5bc2247.css.map",
+    "main.393471cd.js.map": "/static/js/main.393471cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f030ac69.css",
-    "static/js/main.c5026fab.js"
+    "static/css/main.d5bc2247.css",
+    "static/js/main.393471cd.js"
   ]
 }
