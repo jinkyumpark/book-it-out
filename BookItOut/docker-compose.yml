@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  backend:
+    image: "jinkpark/book-it-out:v1"
+    ports:
+      - "80:80"
+    restart: "always"
