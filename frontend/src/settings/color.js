@@ -1,3 +1,0 @@
-const MEMO_BACKGROUND_COLOR = `rgb(242, 227, 142)`
-
-export { MEMO_BACKGROUND_COLOR }
